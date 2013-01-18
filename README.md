@@ -1,5 +1,5 @@
-jQuery Tokeninput: A Tokenizing Autocomplete Text Entry
-=======================================================
+jQuery Tokeninput: A Tokenizing Autocomplete Text Entry with showing all dropdown datas on focus out 
+====================================================================================================
 
 Overview
 --------
@@ -10,3 +10,11 @@ Documentation, Features and Demos
 Full details and documentation can be found on the project page here:
 
 <http://loopj.com/jquery-tokeninput/>
+
+Extra feature done
+-------------------
+
+On Focus out you can see all the options in the drop down and you can easily select your options and also you can search and select.
+
+
+

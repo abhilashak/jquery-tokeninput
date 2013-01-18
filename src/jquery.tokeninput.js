@@ -247,7 +247,7 @@ $.TokenList = function (input, url_or_data, settings) {
                 return false;
             } else
             if ($(input).data("settings").tokenLimit === null || $(input).data("settings").tokenLimit !== token_count) {
-                show_dropdown_hint();
+                populate_dropdown ("", settings.local_data)  //changed this function show_dropdown_hint(); to populate_dropdown ("", settings.local_data)
             }
             token_list.addClass($(input).data("settings").classes.focused);
         })
