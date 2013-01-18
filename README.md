@@ -1,5 +1,5 @@
-jQuery Tokeninput: A Tokenizing Autocomplete Text Entry with showing all dropdown datas on focus out 
-====================================================================================================
+jQuery Tokeninput: A Tokenizing Autocomplete Text Entry with automatically displaying the dropdown on focus  
+===========================================================================================================
 
 Overview
 --------
@@ -14,7 +14,7 @@ Full details and documentation can be found on the project page here:
 Extra feature done
 -------------------
 
-On Focus out you can see all the options in the drop down and you can easily select your options and also you can search and select.
+On Focus you can see the drop down automatically displays and you can easily select your options and also you can search and select.
 
 
 
